@@ -1,0 +1,91 @@
+table
+{
+  width: 100%;
+}
+td,th{
+  border:solid 2px rgb(207, 126, 126);
+  padding:10px ;
+  text-align: left;
+}
+td{
+  background-color: rgb(207, 126, 126);;
+}
+.table-box
+{
+  width:1000px;
+}
+.form
+{
+  display: flex;
+  flex-direction: row;
+
+
+}
+.name
+{
+  display: flex;
+  flex-direction:column;
+  justify-content: space-between;
+  padding-left:30px ;
+}
+.name div
+{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+.submit
+{
+  padding: 20pxs;
+  background-color: brown;
+  width: 60px;
+  height: 20px;
+  border-radius:5px;
+  border: solid 2px black;
+  margin-left: 200px;
+}
+.firstName,.lastName,.skills,.search
+{
+  width:500px;
+  height: 30px;
+  border: solid 2px black;
+  border-radius: 5px;
+}
+.form-popup
+{
+  display: flex;
+  flex-direction: row;
+
+
+}
+.student-name
+{
+  display: flex;
+  flex-direction:column;
+  justify-content: space-between;
+  padding-left:30px ;
+}
+.student-name div
+{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+
+.firstName1,.lastName1,.skills1
+{
+  width:300px;
+  height: 30px;
+  border: solid 2px black;
+  border-radius: 5px;
+}
+.button
+{
+  padding: 20pxs;
+  background-color: brown;
+  width: 60px;
+  height: 20px;
+  border-radius:5px;
+  border: solid 2px black;
+  margin-left: 200px;
+}
