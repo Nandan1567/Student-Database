@@ -1,4 +1,4 @@
-# student-database
+# Student-Database
 
 student database is can insert update and delete tha student data
 
@@ -24,7 +24,7 @@ sqlparse==0.3.0
 Clone the repository
 
 ```
-git clone https://github.com/Nandan1567/student-database.git
+git clone https://github.com/Nandan1567/Student-Database.git
 ```
 
 Setting up your virtual environment:
