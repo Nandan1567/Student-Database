@@ -39,13 +39,13 @@ Activating Virtual  Environment
 source .env/bin/activate
 ```
 
-Once the repository is cloned and virtual environment set up, go to the directory where the requirements.txt(student-database/) is and type the following code in your terminal:
+Once the repository is cloned and virtual environment set up, go to the directory where the requirements.txt(Student-Database/) is and type the following code in your terminal:
 
 ```
 pip install requirements.txt
 ```
 
-Then to run the server, go to the directory 'student-database/studentDB' and type the following code in terminal:
+Then to run the server, go to the directory 'Student-database/studentDB' and type the following code in terminal:
 
 ```
 python3 manage.py runserver
@@ -57,12 +57,8 @@ For Frontend which is ReactJS,
 Dependencies are: 
 ```
 "axios": "^0.19.0",
-"react": "^16.12.0",
 "react-dom": "^16.12.0",
-"react-redux": "^7.1.3",
 "react-router-dom": "^5.1.2",
-"redux": "^4.0.4",
-"react-scripts": "0.9.5"
 ```
 Go to 'student-database/studentinfo/' and type the following code in the terminal:
 
