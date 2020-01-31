@@ -1,6 +1,6 @@
 # Student-Database
 
-student database is can insert update and delete tha student data
+student database for crude operations
 
 ### Prerequisites
 
